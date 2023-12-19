@@ -26,4 +26,4 @@ spec:
                 name: api-service
                 port:
                   number: 80
-                  ping synchat.internal
+                  # ping synchat.internal
